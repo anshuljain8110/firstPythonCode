@@ -1,7 +1,7 @@
 nr=7
 if nr==1:
     pass
-elif nr==2:
+elif nr=32:
     pass    
 else:
     arr=[[1],[1,1]]
